@@ -3,5 +3,3 @@ Hi, I'm master branch
 Hi, I'm second branch
 
 This is a master branch.
-
-
